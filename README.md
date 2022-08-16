@@ -3,7 +3,7 @@
 - 👔 Atualmente estou trabalhando como Designer gráfico  
 - 📝 Estou estudando: HTML, CSS, JavaScript e arquitetura de computadores <img align="right" alt="Rodrigo-pic" height="110" style="border-radius:100px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 - 🏦 Instituição: Faculdade Descomplica 
-- 🤔 Interessado em: Desemvolvimento WEB
+- 🤔 Interessado em: Desemvolvimento WEB e Automação
 - ⚡ Sobre: Sou baiano, tenho 20 anos, atualmente moro em Salvador
 
 ##
