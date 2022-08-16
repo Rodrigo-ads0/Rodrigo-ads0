@@ -16,12 +16,12 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rodrigo-Js" height="15" width="410" src="https://cdn.discordapp.com/attachments/625159978419748909/1008961303383117864/a.png">
+  <img align="center" alt="Rodrigo-Js" height="15" width="350" src="https://cdn.discordapp.com/attachments/625159978419748909/1008961303383117864/a.png">
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rodrigo-Js" height="15" width="410" src="https://cdn.discordapp.com/attachments/625159978419748909/1008961303383117864/a.png">
+  <img align="center" alt="Rodrigo-Js" height="15" width="350" src="https://cdn.discordapp.com/attachments/625159978419748909/1008961303383117864/a.png">
  
 </div>
 
