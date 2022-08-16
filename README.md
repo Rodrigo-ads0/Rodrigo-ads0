@@ -28,13 +28,13 @@
 
 ##
 <div> 
-<img align="center" alt="Rodrigo-Js" height="15" width="170" src="https://cdn.discordapp.com/attachments/625159978419748909/1008961303383117864/a.png">
+<img align="center" alt="Rodrigo-Js" height="15" width="160" src="https://cdn.discordapp.com/attachments/625159978419748909/1008961303383117864/a.png">
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/wanted0" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/uYYYBSQ4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rodrigo04.alves05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-alves-94907a234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="center" alt="Rodrigo-Js" height="15" width="170" src="https://cdn.discordapp.com/attachments/625159978419748909/1008961303383117864/a.png">
+  <img align="center" alt="Rodrigo-Js" height="15" width="160" src="https://cdn.discordapp.com/attachments/625159978419748909/1008961303383117864/a.png">
   
  ##
 <img align="center" alt="Rodrigo-pic" height="" style="border-radius:500px;" src="https://cdn.discordapp.com/attachments/625159978419748909/1008975022016176168/oie_Rrn4GBFuEbJW.gif">
