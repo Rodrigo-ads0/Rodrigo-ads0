@@ -1,4 +1,4 @@
-###  Olá,  meu nome é Rodrigo Alves
+###  Hello, Word!  meu nome é Rodrigo Alves
 ##
 - 👔 Atualmente estou trabalhando como Designer gráfico  
 - 📝 Estou estudando: HTML, CSS, JavaScript e arquitetura de computadores <img align="right" alt="Rodrigo-pic" height="110" style="border-radius:100px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
